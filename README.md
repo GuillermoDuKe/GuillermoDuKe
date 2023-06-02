@@ -1,10 +1,11 @@
 
 <div id="header" class="header">
   <h1 align="center">Hola, soy Guillermo Duque 👋</h1>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuillermoDuKe&theme=ambient-gradient&locale=es)](https://git.io/streak-stats)
+  
 </div>  
 
 ### 
+
 
 <!--
 **GuillermoDuKe/GuillermoDuKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuillermoDuKe&theme=ambient-gradient&locale=es)](https://git.io/streak-stats)
