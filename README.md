@@ -1,4 +1,9 @@
-### Hola, soy Guillermo Duque 👋
+
+<div id="header" class="header">
+  <h2 align="center">Hola, soy Guillermo Duque 👋</h2>
+</div>  
+
+### 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuillermoDuKe&hide_border=true&locale=es)](https://git.io/streak-stats)
 <!--
 **GuillermoDuKe/GuillermoDuKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
