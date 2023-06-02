@@ -1,7 +1,7 @@
 
 <div id="header" class="header">
   <h1 align="center">Hola, soy Guillermo Duque 👋</h1>
-  <img src="https://pixabay.com/es/photos/desarrollador-de-software-6521720/" width="120px" align="center"/>
+  <img src="[https://pixabay.com/es/photos/desarrollador-de-software-6521720/](https://pixabay.com/es/photos/desarrollador-de-software-6521720/)" width="120px" align="center"/>
 </div>  
 
 ### 
