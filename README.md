@@ -1,7 +1,7 @@
 
 <div id="header" class="header">
   <h1 align="center">Hola, soy Guillermo Duque 👋</h1>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuillermoDuKe&theme=ambient-gradient&locale=es)](https://git.io/streak-stats)
 </div>  
 
 ### 
