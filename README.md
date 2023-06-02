@@ -1,6 +1,6 @@
 
 <div id="header" class="header">
-  <h1 align="center">Hola, soy Guillermo Duque 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/guillermo-leon-duque-castrillon/">Guillermo Duque<a>👋</h1>
 </div>  
 
 ### 
