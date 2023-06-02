@@ -1,4 +1,4 @@
-<center><h2>Hola, soy Guillermo Duque 👋</h2></center>
+### Hola, soy Guillermo Duque 👋
 
 <!--
 **GuillermoDuKe/GuillermoDuKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
