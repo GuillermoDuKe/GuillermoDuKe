@@ -20,8 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuillermoDuKe&theme=ambient-gradient&locale=es)](https://git.io/streak-stats)
