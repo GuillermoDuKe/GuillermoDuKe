@@ -1,6 +1,7 @@
 
 <div id="header" class="header">
   <h1 align="center">Hola, soy Guillermo Duque<a>👋</h1>
+    - 🌱 I’m currently learning ...
 </div>  
 
 ### 
