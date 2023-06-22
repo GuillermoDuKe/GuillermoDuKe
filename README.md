@@ -1,7 +1,7 @@
 
 <div id="header" class="header">
   <h1 align="center">Hola, soy Guillermo Duque<a>👋</h1>
-    - 🌱 Actualmente me encuentro estudiando un BootCamp en Desarrollo web Full Stack MERN en MindHub >
+    - 🌱 Estudiante de Desarrollo web Full Stack MERN (MongoDB, ExpressJS, React y NodeJS) >
     
 </div>  
 
