@@ -1,7 +1,7 @@
 
 <div id="header" class="header">
   <h1 align="center">Hola, soy Guillermo Duque<a>👋</h1>
-    - 🌱 Desarrollador Web Full Stack MERN (MongoDB, ExpressJS, React y NodeJS) >
+    - 🌱 Desarrollador Web Full Stack MERN (MongoDB, ExpressJS, React y NodeJS) + Tailwind CSS >
     
 </div>  
 
